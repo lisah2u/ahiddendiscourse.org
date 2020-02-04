@@ -1,1 +1,40 @@
-theme: jekyll-theme-tactile
+theme: academic
+
+title_html: "Hidden Discourse"
+description: Lisa D. Harper
+
+baseurl: ""
+url: "https://lisah2u.github.io"
+
+nb_posts_page: /posts
+archive_permalink: /archive
+curriculum:
+  name: publications
+  url: static/pubs.html
+
+author: Lisa D. Harper
+email: lisah2u@gmail.com
+
+shortbio: "I’m a human computer interaction researcher and linguist. I study how people behave and what they understand when they interact with technology."
+
+repo: https://github.io/lisah2u/hiddendiscourse
+twitter_username: lisah2u
+github_username: lisah2u
+linkedin_username: lisah2u
+
+# Favicon
+favicon:
+  safari: 5bbad5
+  theme: ffffff
+
+# Build settings
+markdown: redcarpet
+redcarpet:
+  extensions: ["tables", "fenced_code_blocks", "autolink", "footnotes", "with_toc_data"]
+theme: academic
+gems:
+  - jekyll-feed
+exclude:
+  - jekyll_build.sh
+  - Gemfile
+  - Gemfile.lock
