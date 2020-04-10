@@ -4,7 +4,7 @@ title_html: "Hidden Discourse"
 description: Lisa D. Harper
 
 baseurl: ""
-url: "https://lisah2u.github.io"
+url: "https://ahiddendiscourse.org"
 
 nb_posts_page: /posts
 archive_permalink: /archive
@@ -15,7 +15,7 @@ curriculum:
 author: Lisa D. Harper
 email: lisah2u@gmail.com
 
-shortbio: "I’m a human computer interaction researcher and linguist. I study how people behave and what they understand when they interact with technology."
+shortbio: "I'm a human computer interaction researcher and linguist. I study how people behave and what they understand when they interact with technology."
 
 repo: https://github.io/lisah2u/hiddendiscourse
 twitter_username: lisah2u
